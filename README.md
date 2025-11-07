@@ -2,4 +2,4 @@
 Hi, I'm ren. I'm coding some random stuff.  
   
 Proudest Project: [Unscrub](https://unscrub.astrarune.com)  
-Unblocked Music: [Unscrub](https://music.astrarune.com)  
+Unblocked Music: [Musicrune](https://music.astrarune.com)  
