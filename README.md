@@ -1,5 +1,6 @@
-<p align=center><h1>pypppe 🏳️‍🌈</h1><p>  
-Hi, I'm ren. I'm coding some random stuff.  
+<p align=center><h1>Ren 🇬🇧</h1><p>  
+Hi, I'm ren. I own astrarune.  
   
-Proudest Project: [Unscrub](https://unscrub.astrarune.com)  
+Astrarune Best Project: [Unscrub](https://unscrub.astrarune.com)
+Astrarune Homepage: [astrarune](https://astrarune.com)  
 Unblocked Music: [Musicrune](https://music.astrarune.com)  
