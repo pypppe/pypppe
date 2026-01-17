@@ -8,8 +8,8 @@ I'm a developer and the creator of **Astrarune**, a hub for helpful web tools an
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **✨ Emojiscrub** | Astrarune's flagship tool for cleaning up text. | [Visit Emojiscrub](https://escrub.astrarune.com) |
-| **🎵 Musicrune** | Unblocked music streaming for when you need your beats. | [Listen Now](https://music.astrarune.com) |
+| **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
+| **🎵 Musicrune** | Unblocked copyright-free music | [Listen Now](https://music.astrarune.com) |
 | **🌐 Astrarune** | The official homepage for everything I build. | [Explore More](https://astrarune.com) |
 
 ---
