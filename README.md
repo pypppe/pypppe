@@ -1,6 +1,33 @@
-<p align=center><h1>Lily 🏳️‍⚧️</h1><p>  
-Hi, I'm lily. I own astrarune.  
-  
-Astrarune Best Project: [Unscrub](https://unscrub.astrarune.com)  
-Astrarune Homepage: [astrarune](https://astrarune.com)  
-Unblocked Music: [Musicrune](https://music.astrarune.com)  
+# Hi there, I'm Lily! 👋 🏳️‍⚧️
+
+I'm a developer and the creator of **Astrarune**, a hub for helpful web tools and projects. I love building things that make the internet a little more fun and accessible.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **✨ Emojiscrub** | Astrarune's flagship tool for cleaning up text. | [Visit Emojiscrub](https://escrub.astrarune.com) |
+| **🎵 Musicrune** | Unblocked music streaming for when you need your beats. | [Listen Now](https://music.astrarune.com) |
+| **🌐 Astrarune** | The official homepage for everything I build. | [Explore More](https://astrarune.com) |
+
+---
+
+### 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📬 Get in Touch
+
+- **Portfolio:** [astrarune.com](https://astrarune.com)
+- **Email:** [py@astrarune.com](mailto:py@astrarune.com)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pypppe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
