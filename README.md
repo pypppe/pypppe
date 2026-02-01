@@ -9,7 +9,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
-| **🎵 Musicrune** | Unblocked copyright-free music | [Listen Now](https://music.astrarune.com) |
+| **🎵 Musicdovo** | Unblocked copyright-free music | [Listen Now](https://music.astrarune.com) |
 | **🌐 Astrarune** | The official homepage for everything I build. | [Explore More](https://astrarune.com) |
 
 ---
@@ -25,7 +25,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ### 📬 Get in Touch
 
 - **Portfolio:** [astrarune.com](https://astrarune.com)
-- **Email:** [py@astrarune.com](mailto:py@astrarune.com)
+- **Email:** [team@astrarune.com](mailto:team@astrarune.com)
 
 ---
 <p align="center">
