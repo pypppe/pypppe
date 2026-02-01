@@ -1,6 +1,6 @@
 # Hi there, I'm Lily! 👋 🏳️‍⚧️
 
-I'm a developer and the creator of **Astrarune**, a hub for helpful web tools and projects. I love building things that make the internet a little more fun and accessible.
+I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for helpful web tools and projects. I love building things that make the internet a little more fun and accessible.
 
 ---
 
