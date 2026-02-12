@@ -10,7 +10,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 | :--- | :--- | :--- |
 | **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
 | **🕯️ Moonlight Addons** | Adding more commands to Command Prompt. | [Download Now](https://maddons.astrarune.com/home) |
-| **🌐 Astrarune** | The official homepage for everything I build. | [Explore More](https://astrarune.com) |
+| **🌐 Zandovo** | The official homepage for everything I build. | [Explore More](https://zandovo.com) |
 
 ---
 
