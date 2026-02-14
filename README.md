@@ -36,8 +36,8 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 
 ### 📬 Get in Touch
 
-- **Portfolio:** [astrarune.com](https://astrarune.com)
-- **Email:** [team@astrarune.com](mailto:team@astrarune.com)
+- **Website:** [astrarune.com](https://zandovo.com)
+- **Email:** [team@astrarune.com](mailto:team@zandovo.com)
 
 ---
 <p align="center">
