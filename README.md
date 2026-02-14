@@ -26,6 +26,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ### 🖥️ My Operating System
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
