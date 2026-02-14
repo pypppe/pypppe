@@ -28,6 +28,8 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+---
+
 ### 📬 Get in Touch
 
 - **Portfolio:** [astrarune.com](https://astrarune.com)
