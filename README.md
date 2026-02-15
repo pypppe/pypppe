@@ -30,7 +30,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-(Basically, I use Zorin OS which is Ubunty. and Ubuntu is based off Debian, and Debian is Linux.)
+(Basically, I use Zorin OS which is Ubuntu. and Ubuntu is based off Debian, and Debian is Linux.)
 
 ---
 
