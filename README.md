@@ -28,9 +28,9 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-(Basically, I use Zorin OS which is Debian. and Debian is Linux.)
+(Basically, I use Zorin OS which is Ubunty. and Ubuntu is based off Debian, and Debian is Linux.)
 
 ---
 
