@@ -29,17 +29,17 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ### 🖥️ My Operating System
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)
+![KDE Neon](https://img.shields.io/badge/KDE%20Neon-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-(Basically, I use Zorin OS which is Ubuntu. and Ubuntu is based off Debian, and Debian is Linux.)
+(Basically, I use KDE Neon which is Ubuntu.)
 
 ---
 
 ### 📬 Get in Touch
 
 - **Website:** [zandovo.com](https://zandovo.com)
-- **Email:** [team@zandovo.com](mailto:team@zandovo.com)
+- **Email:** [dev@mtgoals.ccc](mailto:dev@mtgoals.cc)
 
 ---
 <p align="center">
