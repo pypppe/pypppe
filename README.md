@@ -11,7 +11,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 | **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
 | **🕯️ Moonlight Addons** | Adding more commands to Command Prompt. | [Download Now](https://maddons.astrarune.com/home) |
 | **🌐 Zandovo** | The official homepage for everything I build. | [Explore More](https://zandovo.com) |
-| **⌨️ Monkeytype Goals** | Use websites without it knowing your IP. | [Visit](https://mtgoals.cc) |
+| **⌨️ Monkeytype Goals** | Set goals for Monkeytype to achieve. | [Visit](https://mtgoals.cc) |
 
 ---
 
