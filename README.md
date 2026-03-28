@@ -39,7 +39,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ### 📬 Get in Touch
 
 - **Website:** [zandovo.com](https://zandovo.com)
-- **Email:** [dev@mtgoals.ccc](mailto:dev@mtgoals.cc)
+- **Email:** [dev@mtgoals.cc](mailto:dev@mtgoals.cc)
 
 ---
 <p align="center">
